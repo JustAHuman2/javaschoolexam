@@ -11,8 +11,8 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : {Stepanov Dmitry}
-* Codeship : {https://app.codeship.com/projects/87d3cff0-73f0-0137-b942-7acf87a9efbb/status?branch=master}
+* Author name : Stepanov Dmitry
+* Codeship : [![Codeship Status for JustAHuman2/javaschoolexam](https://app.codeship.com/projects/87d3cff0-73f0-0137-b942-7acf87a9efbb/status?branch=master)](https://app.codeship.com/projects/348996)
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
